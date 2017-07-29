@@ -1,0 +1,30 @@
+############################################
+# Programming Challenge 3
+# Web: HTML, CSS, JavaScript 
+############################################
+
+# 1
+# print "This appears in the console of my browser" to the console of your browser 
+
+
+
+# 2
+# create a paragraph tag that contains the preamble of the US Constitution 
+
+
+
+# 3
+# change the background color of the web page to yellow  
+
+
+
+# 4
+# embed this youtube video https://www.youtube.com/watch?v=qj4DQfYx2Hg below the preamble 
+
+
+
+# 5
+# print "I can do this!" 7 times to the console using a for loop 
+
+
+
